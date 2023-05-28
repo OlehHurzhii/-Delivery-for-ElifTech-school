@@ -1,0 +1,10 @@
+{{#each restaurants}}
+{{#each menu}}
+<li class="menu__item">  
+  <img src={{img}} alt={{name}} class="menu__image" width="200px" height="170px">
+  <p class="menu__descr">{{name}}</p>
+  <p class="menu__price">Ціна: {{price}}</p>
+  <button class="menu__button">додати до покупок</button>  
+</li>
+{{/each}}
+{{/each}}

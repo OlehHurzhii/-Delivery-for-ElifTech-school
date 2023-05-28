@@ -1,0 +1,133 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Ресторан 'Розробник'",
+        "address": "Украина, м. Черкаси, вул. Брендана Айка, буд. 403",
+        "menu": [
+          {
+            "id": 1,
+            "name": "Гамбургер 'Джуніор'",
+            "img": "https://mrgrill.ua/storage/products/images/medium/e4hjddyFvyvOjr1gYa96zk1NZWcyj2RZDM3VsBD9.png?v=1650623171",
+            "price": 85.00
+          },
+          {
+            "id": 2,
+            "name": "Гамбургер 'Мідл'",
+            "img": "https://nur.gippo.kz/wp-content/uploads/2020/10/%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg",
+            "price": 105.00
+          },
+          {
+            "id": 3,
+            "name": "Гамбургер 'Сеньйор'",
+            "img": "https://irecommend.ru/sites/default/files/product-images/789742/0ERKzPC1kpmKzSg7YVYd1Q.jpg",
+            "price": 150.00
+          },
+          {
+            "id": 4,
+            "name": "Запивачка 'Error'",
+            "img": "https://shuba.life/static/content/thumbs/740x493/1/1b/5k73bi---c5252x3498x0sx2s-c5252x3498x0sx2s-up--c9bfb800b4ef3ca63140539571af71b1.jpg",
+            "price": 25.00
+          },
+          {
+            "id": 5,
+            "name": "Запивачка 'Fatall error'",
+            "img": "https://www.5.ua/media/pictures/original/141617.jpg?t=1530273359",
+            "price": 35.00
+          },
+          {
+            "id": 6,
+            "name": "Запивачка 'Dead script'",
+            "img": "https://family-place.vn.ua/uploads/5bcdc3a55fedd.jpg",
+            "price": 50.00
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Ресторан 'Тестувальник'",
+        "address": "Украина, м. Черкаси, вул. Розробників, буд. 200 корпус Status-OK",
+        "menu": [
+          {
+            "id": 1,
+            "name": "Хот-дог 'Ого, вперше бачу'",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/1200px-Hot_dog_with_mustard.png",
+            "price": 75.00
+          },
+          {
+            "id": 2,
+            "name": "Хот-дог 'Це шо Пайтон?'",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbADowjsVNRGufyiaPYTBvmo6Qn3e1xTnuA&usqp=CAU",
+            "price": 95.00
+          },
+          {
+            "id": 3,
+            "name": "Хот-дог 'Краще б я таксував'",
+            "img": "https://ice-store.ua/wp-content/uploads/2019/11/hleb-bulochka-dlya-hot-doga-s-razrezom-60g.jpg",
+            "price": 115.00
+          },
+          {
+            "id": 4,
+            "name": "Квас 'Бісять Сеньйори'",
+            "img": "https://ireland.apollo.olxcdn.com/v1/files/40czu77gr7333-UA/image;s=",
+            "price": 20.00
+          },
+          {
+            "id": 5,
+            "name": "Квас 'Ненавиджу Мідлів'",
+            "img": "https://klopotenko.com/wp-content/uploads/2019/08/Kvas-Domashniy_siteWeb.jpg",
+            "price": 30.00
+          },
+          {
+            "id": 6,
+            "name": "Квас 'Проклинаю Джунів'",
+            "img": "https://ireland.apollo.olxcdn.com/v1/files/hml64mbpu83m1-UA/image;s=",
+            "price": 40.00
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Ресторан 'Невдалий деплой'",
+        "address": "Украина, м. Черкаси, вул. Відчаю, буд. 404",
+        "menu": [
+          {
+            "id": 1,
+            "name": "Піца 'Стадія злості'",
+            "img": "https://cesmak.info/uploads/posts/2018-09/15365699671thumb-840x440.jpg",
+            "price": 105.00
+          },
+          {
+            "id": 2,
+            "name": "Піца 'Стадія депресії'",
+            "img": "https://i.obozrevatel.com/food/recipemain/2020/2/3/maxresdefault.jpg?size=636x424",
+            "price": 135.00
+          },
+          {
+            "id": 3,
+            "name": "Піца 'Стадія самогубство'",
+            "img": "https://www.rbc.ua/static/img/s/c/screenshot_6_192_1300x820.jpg",
+            "price": 155.00
+          },
+          {
+            "id": 4,
+            "name": "Лимонад 'Відчай'",
+            "img": "https://img.freepik.com/premium-photo/glass-mug-of-nonalcoholic-mojito-on-a-wooden-table-and-ingredient-on-the-background-mojito-refreshing-cocktail-summer-cocktail-summer-mojito_411614-82.jpg?w=2000",
+            "price": 20.00
+          },
+          {
+            "id": 5,
+            "name": "Сітро 'Туга за домівкою'",
+            "img": "https://www.gazeta.uz/media/img/2022/06/1siXry16548399537772_l.jpg",
+            "price": 45.00
+          },
+          {
+            "id": 6,
+            "name": "Морс 'Прийом у психіатра'",
+            "img": "https://www.gazeta.uz/media/img/2022/06/TFumZS16548399549974_l.jpg",
+            "price": 70.00
+          }
+        ]
+      }
+    ]
+  }
